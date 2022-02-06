@@ -3,9 +3,7 @@
         "pid": "0x1000",
         "vid": "0x090C",
         "sn": "2020PDN749100",
-        "netif_num":"2",
         "mac1": "001132C5F949"
-        "mac2": "001132C5F94A"
     },
     "synoinfo": {},
     "ramdisk_copy": {},
